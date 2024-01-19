@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
+}
 
 header,
 h1,
@@ -17,7 +17,7 @@ body, input, textarea {
     font-family: 'Roboto', sans-serif;
 }
 
-}
+
 header {
     padding: 16px 0;
     background-color: #2913b4;
